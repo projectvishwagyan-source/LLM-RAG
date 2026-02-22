@@ -77,7 +77,7 @@ This project is licensed under the **Apache License 2.0**. It encourages open co
 ## 🤝 Contact & Investment Inquiries
 We are looking for visionary investors, developers, and subject matter experts to join the "Sovereign AI" movement.
 
-- **Founder:** [Vedant Bharti]
+- **Founder:** Vedant Bharti
 - **Team:** Project Vishwagyan
 
 ---
