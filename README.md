@@ -51,8 +51,8 @@ Vishwagyan is built on a "Sovereign AI" stack to ensure data privacy and regiona
 - [x] Tech Stack Selection & Feasibility Study.
 
 ### 🏗 Phase 1: R&D & Data Ingestion [IN PROGRESS]
-- [ ] Automated scraping pipelines for official Govt. portals (PIB, PRS).
-- [ ] Digitization of regional language educational archives.
+- [x] Automated scraping pipelines for official Govt. portals (PIB, PRS).
+- [x] Digitization of regional language educational archives.
 - [ ] Benchmarking Sarvam-1 vs Llama on UPSC Prelims datasets.
 
 ### 🧪 Phase 2: Alpha Testing
